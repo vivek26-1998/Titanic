@@ -1,1 +1,13 @@
-# Titanic- my code for solving the titanic survivor problem , the python notebook and intial dataset is included
+# Survival prediction
+## Description
+This is a random forest classifier that predicts the survival of a passenger in titanic.
+
+## Setup
+- Install dependencies.
+```
+pip3 -r install requirements.txt
+```
+### Dataset 
+Source Titanic Kaggle Competition
+
+
